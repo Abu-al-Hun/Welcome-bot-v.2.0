@@ -1,0 +1,4 @@
+discord
+colorama
+art
+python_dotenv
